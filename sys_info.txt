@@ -1,12 +1,1 @@
-Public ip Address: 110.226.193.36
-Processor: AMD64 Family 23 Model 104 Stepping 1, AuthenticAMD
-System: Windows 10.0.22621
-Machine: AMD64
-Hostname: AnupamR
- Private IP : 192.168.43.123
-Public ip Address: 110.226.193.36
-Processor: AMD64 Family 23 Model 104 Stepping 1, AuthenticAMD
-System: Windows 10.0.22621
-Machine: AMD64
-Hostname: AnupamR
- Private IP : 192.168.43.123
+
